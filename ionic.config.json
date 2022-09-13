@@ -1,0 +1,8 @@
+{
+  "name": "Tiendalibros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8b82ca5d"
+}
